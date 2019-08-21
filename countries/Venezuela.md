@@ -1,14 +1,18 @@
-##Venezuela
-## population
+# Venezuela
+## Population
+ * 32 million
 
 
-## capital
+## Capital
+ * Caracas
 
  
-## official language
+## Official language
+ * Spanish 
 
 
-## interesting trivia
+## Interesting trivia
+ * Actually called Bolivarian Repub. of Venezuela
 
 
 
