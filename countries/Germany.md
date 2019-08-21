@@ -1,14 +1,14 @@
 ##Germany
-## population
+## population  17 billion
 
 
-## capital
+## capital     Berlin
 
  
-## official language
+## official language  German
 
 
-## interesting trivia
+## interesting trivia  Oktoberfest!
 
 
 
