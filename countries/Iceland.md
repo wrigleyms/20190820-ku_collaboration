@@ -1,14 +1,14 @@
 ##Iceland
-## population
+## population - 338,349
 
 
-## capital
+## capital - Reykjavík
 
  
-## official language
+## official language - Icelandic
 
 
-## interesting trivia
+## interesting trivia - There is little crime in Iceland, and virtually no violent crime. The country does not have a standing army, and its police officers do not carry guns.
 
 
 
