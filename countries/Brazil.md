@@ -1,14 +1,14 @@
-##Brazil
-## population
+# Brazil
+## Population
+209.7 million
 
-
-## capital
-
+## Capital
+Brasília
  
-## official language
+## Official language
+Portuguese
 
-
-## interesting trivia
-
+## Interesting trivia
+Brazil has the largest city of Latin America - São Paulo
 
 

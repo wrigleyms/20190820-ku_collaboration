@@ -1,14 +1,14 @@
 ##Austria
-## population
+## Population:  8.8 million
 
 
-## capital
+## Capital City:  Vienna
 
  
-## official language
+## Languages:  German, Austrian German, Slovanian, Hungarian
 
 
-## interesting trivia
+## interesting trivia:  The Austrian Oak's birthplace
 
 
 
