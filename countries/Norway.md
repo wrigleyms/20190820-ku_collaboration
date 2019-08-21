@@ -1,14 +1,20 @@
 ##Norway
-## population
+## population: 
+
+5.258 million (2017)
 
 
-## capital
+## capital: 
+
+Oslo, Norway
 
  
-## official language
+## official language: 
+
+Norwegian - Bokmål and Nynorsk
 
 
 ## interesting trivia
 
-
+Norway consists mainly of ethnic Norwegians and a small group of people people related to Finns and Hungarians. Nearly a fifth of Norway is composed of migrants.
 
