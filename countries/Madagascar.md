@@ -1,14 +1,12 @@
-##Madagascar
-## population
+# Madagascar _The Greatest Country_
 
+### Population _Probably smaller than you think_
 
-## capital
-
+### Capital _Enter name here_
  
-## official language
+### Official Language _Madagascarian_
 
-
-## interesting trivia
+### Interesting Trivia _Madagascar is home to lemurs_
 
 
 
