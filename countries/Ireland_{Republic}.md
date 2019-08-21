@@ -1,5 +1,5 @@
 ##Ireland_{Republic}
-## population
+## population 4.88 million
 
 
 ## capital
@@ -8,7 +8,7 @@
 ## official language
 
 
-## interesting trivia
+## interesting trivia 
 
 
 
