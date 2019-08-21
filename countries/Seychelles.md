@@ -1,11 +1,11 @@
 ##Seychelles
-## population
+## The population of Seychelles is 95,843, according to a 2017 report.
 
 
-## capital
+## cThe capital is Victoria, which is alos the largest city in the country
 
  
-## official language
+## official languages are English, French, and Seychelles Creole
 
 
 ## interesting trivia
