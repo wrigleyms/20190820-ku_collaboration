@@ -1,4 +1,5 @@
-##Norway
+## Norway
+
 ## population: 
 
 5.258 million (2017)
@@ -16,5 +17,5 @@ Norwegian - Bokmål and Nynorsk
 
 ## interesting trivia
 
-Norway consists mainly of ethnic Norwegians and a small group of people people related to Finns and Hungarians. Nearly a fifth of Norway is composed of migrants.
+Norway consists mainly of ethnic Norwegians and a small group of people people related to Finns and Hungarians. Nearly a fifth of Norway is composed of migrants. There's a lot of white folks there!
 
