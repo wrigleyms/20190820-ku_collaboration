@@ -8,7 +8,7 @@
 ## official languages are English, French, and Seychelles Creole
 
 
-## interesting trivia
+## It is an island and very pretty.
 
 
 
