@@ -1,14 +1,4 @@
-##Albania
-## population
+## Albania
 
-
-## capital
-
- 
-## official language
-
-
-## interesting trivia
-
-
+Albania is a country I should learn more about.
 
